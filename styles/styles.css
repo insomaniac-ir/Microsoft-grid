@@ -29,7 +29,8 @@ ul{
     padding: 10px 20px;
     background-color: #262626;
     color: #fff;
-    max-width: 126px;
+    width: 130px;
+    text-align: center;
 }
 .btn-primary:hover{
     opacity: 0.9;
